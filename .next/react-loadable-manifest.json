@@ -1,0 +1,33 @@
+{
+  "../../node_modules/@web3-react/fortmatic-connector/dist/fortmatic-connector.esm.js -> fortmatic": {
+    "id": 49878,
+    "files": [
+      "static/chunks/9878.b01b16854bfb98eccdcc.js"
+    ]
+  },
+  "../../node_modules/@web3-react/walletconnect-connector/dist/walletconnect-connector.esm.js -> @walletconnect/ethereum-provider": {
+    "id": 33006,
+    "files": [
+      "static/chunks/3006.0e36404fc746bbdc8cdd.js",
+      "static/chunks/6563.6bbb9b49e5961a812734.js"
+    ]
+  },
+  "../components/Web3ReactManager/index.tsx -> ./GnosisManager": {
+    "id": 24640,
+    "files": [
+      "static/chunks/4640.f0b8e6014415b5a66bff.js"
+    ]
+  },
+  "../entities/FortmaticConnector.ts -> fortmatic": {
+    "id": 49878,
+    "files": [
+      "static/chunks/9878.b01b16854bfb98eccdcc.js"
+    ]
+  },
+  "_app.tsx -> ../components/Web3ProviderNetwork": {
+    "id": 30272,
+    "files": [
+      "static/chunks/272.1f292f240cfaf6dd7e9e.js"
+    ]
+  }
+}
