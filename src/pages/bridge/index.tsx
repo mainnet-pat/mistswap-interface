@@ -214,7 +214,7 @@ export default function Bridge() {
 
         let hopCashMaximum: number
         if (hopDirection === HopDirection.in) {
-          hopCashMaximum = library ? parseFloat(await getSmartBchPoolBalance(library)) || 0. : 0.
+          hopCashMaximum = networkLibrary ? parseFloat(await getSmartBchPoolBalance(networkLibrary)) || 0. : 0.
         } else {
           hopCashMaximum = await getBchPoolBalance()
         }
